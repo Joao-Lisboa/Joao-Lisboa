@@ -68,7 +68,7 @@ Tenho experiência prática construindo soluções envolvendo:
 
 # 📫 Contato
 
-- ✉️ Email: joaovitorlisboasilva@gmail.com
+- ✉️ Email: dev.joao.lisboa@gmail.com
 - 📱 Telefone: +55 (31) 98518-2841
 
 ---
